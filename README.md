@@ -1,2 +1,4 @@
-# bpm_2023
-Business Psychology Methods 2023
+# Business Psychology Methods, Aarhus University, 2023
+
+This repository contains data files, scripts and other materials for the course, whcih do not work well in the university's learning management system.
+
