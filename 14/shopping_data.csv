@@ -1,0 +1,944 @@
+id,sex,age,product,category,sub_category,price,rating
+1,Female,34,Sudarsanasavam,Beauty & Hygiene,Health & Medicine,130,NA
+1,Female,34,"Juice - Fruit Power, Pomegranate/Anar",Beverages,Fruit Juices & Drinks,114,NA
+2,Male,42,Coccinia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,13,NA
+2,Male,42,Biscuits - Badam Pista,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",85,NA
+2,Male,42,"Assorted Cookies - Fruit & Nut, Choc Chip","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",165.75,4.1
+2,Male,42,Milk Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+2,Male,42,Pineapple - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,38,NA
+2,Male,42,Chow Chow - Organically Grown,Fruits & Vegetables,Fresh Vegetables,28,NA
+2,Male,42,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46,NA
+3,Male,60,Cake NOVO Finger - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,10,4.4
+4,Male,61,Rusk - Milk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",66.5,NA
+4,Male,61,Soft Drink - Original Taste,Beverages,Energy & Soft Drinks,85,4.3
+4,Male,61,Wholewheat Sandwich Loaf - 100% Whole Wheat,"Bakery, Cakes & Dairy",Breads & Buns,49,NA
+5,Female,45,Herbal Avocado Soap,Beauty & Hygiene,Bath & Hand Wash,70,4.2
+5,Female,45,Eggs,"Eggs, Meat & Fish",Eggs,75,NA
+5,Female,45,Red Cabbage - Grated,Fruits & Vegetables,Cuts & Sprouts,23,NA
+6,Female,17,Soft  Drink,Beverages,Energy & Soft Drinks,20,4.1
+6,Female,17,"Tomato - Local, Organically Grown",Fruits & Vegetables,Fresh Vegetables,5,NA
+6,Female,17,Almond Milk - Chocolate,"Bakery, Cakes & Dairy",Dairy,148.96,3.8
+6,Female,17,Red Cabbage - Grated,Fruits & Vegetables,Cuts & Sprouts,23,NA
+6,Female,17,Kool Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,139,4
+6,Female,17,Rusk - Muesli,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+6,Female,17,"Banana - Raw, Sliced",Fruits & Vegetables,Fresh Vegetables,25,NA
+7,Female,21,Malai Fresh Paneer,"Bakery, Cakes & Dairy",Dairy,71.28,3.8
+7,Female,21,Brinjal Bottle Shape 500 g + Cauliflower 1 pc + Cabbage 1 pc,Fruits & Vegetables,Fresh Vegetables,51.1,NA
+7,Female,21,Shrikhand - Elaichi,"Bakery, Cakes & Dairy",Dairy,30,4
+7,Female,21,Pak Choi,Fruits & Vegetables,Fresh Vegetables,25,NA
+7,Female,21,Frozen Basa Chunks,"Eggs, Meat & Fish",Fish & Seafood,220,NA
+7,Female,21,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+7,Female,21,Methi 250 g + Coriander Leaves 100 g + Palak 250 g + Curry Leaves 100 g,Fruits & Vegetables,Fresh Vegetables,72.45,NA
+8,Female,78,Shrikhand - Elaichi,"Bakery, Cakes & Dairy",Dairy,30,4
+8,Female,78,"Tomato - Local, Organically Grown",Fruits & Vegetables,Fresh Vegetables,5,NA
+8,Female,78,Flavoured Milk - Badam,"Bakery, Cakes & Dairy",Dairy,25,4.1
+8,Female,78,Sapota,Fruits & Vegetables,Fresh Fruits,34,NA
+8,Female,78,Frozen Dessert - Crunchy Butterscotch,"Bakery, Cakes & Dairy",Ice Creams & Desserts,126.65,3.5
+8,Female,78,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,92.06,4.1
+9,Female,48,Cabbage - Organically Grown,Fruits & Vegetables,Fresh Vegetables,20,NA
+9,Female,48,Green Tea Bags,Beverages,Tea,130,4.2
+9,Female,48,Skin Natural Serum sheetmask (Sakura white + Light complete +Charcoal),Beauty & Hygiene,Skin Care,211.62,NA
+9,Female,48,Mackeral Fish,"Eggs, Meat & Fish",Fish & Seafood,60,NA
+9,Female,48,Tomato - Hybrid,Fruits & Vegetables,Fresh Vegetables,14,NA
+10,Female,24,Pepsi Soft Drink 2.25 L + Slice Thickest Mango Drink 1.2 L,Beverages,Energy & Soft Drinks,155,NA
+10,Female,24,Beans - Broad,Fruits & Vegetables,Fresh Vegetables,45,NA
+10,Female,24,"Chicken - Salami with Chilli, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",197.1,NA
+10,Female,24,Drinking Water With Added Minerals,Beverages,Water,9,4.1
+10,Female,24,Tomato - Cherry,Fruits & Vegetables,Exotic Fruits & Veggies,32,NA
+10,Female,24,Soft Drink,Beverages,Energy & Soft Drinks,59.4,4.2
+11,Male,49,Mango Tothapuri - Organically Grown,Fruits & Vegetables,Fresh Fruits,30,NA
+11,Male,49,Chinese Cabbage,Fruits & Vegetables,Exotic Fruits & Veggies,39,NA
+11,Male,49,Forbidden For Men Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,2512.5,NA
+11,Male,49,Sugar Free Ice Cream - Anjeer with Chocolate Sauce,"Bakery, Cakes & Dairy",Ice Creams & Desserts,35,3.6
+11,Male,49,Soap Bar - Care,Beauty & Hygiene,Bath & Hand Wash,10,4.3
+12,Male,29,Mineral Water,Beverages,Water,70,4.2
+12,Male,29,Neem Giloy (Amruta Balli) - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,13,NA
+12,Male,29,Beans - Broad,Fruits & Vegetables,Fresh Vegetables,45,NA
+12,Male,29,Ultimate Paneer,"Bakery, Cakes & Dairy",Dairy,85,3.8
+12,Male,29,"Capsicum - Yellow, Organically Grown",Fruits & Vegetables,Exotic Fruits & Veggies,29,NA
+12,Male,29,Chocolate Milk Shake,"Bakery, Cakes & Dairy",Dairy,29.75,3.8
+13,Other,82,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235,3
+13,Other,82,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+13,Other,82,Cake NOVO Finger - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,10,4.4
+13,Other,82,Eggs,"Eggs, Meat & Fish",Eggs,75,NA
+13,Other,82,Chicken - Cheese & Onion Sausages,"Eggs, Meat & Fish","Sausages, Bacon & Salami",215,NA
+13,Other,82,"Chicken - Salami with Chilli, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",197.1,NA
+13,Other,82,"Radler - Non Alcoholic Malt Drink, Mint & Lime",Beverages,Energy & Soft Drinks,210,3.9
+13,Other,82,Organic Earl Grey Citrus Long Leaf Black Tea,Beverages,Tea,140,4.2
+14,Female,18,Badam Drink Mix,Beverages,"Health Drink, Supplement",215,4.2
+14,Female,18,Colocasia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,11,NA
+14,Female,18,Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,27,4.5
+15,Female,71,Beans - Julienne,Fruits & Vegetables,Cuts & Sprouts,43,NA
+15,Female,71,Badam Milkshake With Real Badam Bits,Beverages,Energy & Soft Drinks,80.33,4.7
+15,Female,71,Rose Milk Shake,"Bakery, Cakes & Dairy",Dairy,32.55,4.2
+15,Female,71,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29,NA
+15,Female,71,Ridge Gourd - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,40,NA
+15,Female,71,Fresh Turmeric - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,14,NA
+15,Female,71,Cabbage - Organically Grown,Fruits & Vegetables,Fresh Vegetables,20,NA
+16,Female,71,Green Tea,Beverages,Tea,152,3.5
+16,Female,71,Cheddar Cheese Spread - Chilly Garlic,"Bakery, Cakes & Dairy",Dairy,85,4.2
+17,Other,39,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+17,Other,39,Cheese Spread - Jeera,"Bakery, Cakes & Dairy",Dairy,80,4.4
+17,Other,39,Orange Ice Tea,Beverages,Tea,90,4
+17,Other,39,"Chai - Masala, Tulsi",Beverages,Tea,230,4.4
+17,Other,39,Cakes - Pineapple 55 g + Fruity Fun 55 g + Orange Bites 55 g + Choco Chill 55 g,"Bakery, Cakes & Dairy",Cakes & Pastries,60,NA
+18,Female,73,Cookies - Australian Anzac,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",117,3.7
+18,Female,73,Milk Shake - Chocolate,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+18,Female,73,Bar Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,30,3.9
+19,Female,18,Khari - Ajwain,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",79,NA
+19,Female,18,"Beans - Cluster, Organically Grown",Fruits & Vegetables,Fresh Vegetables,20,NA
+19,Female,18,Brown Bread,"Bakery, Cakes & Dairy",Breads & Buns,45,NA
+20,Male,38,"Green Tea - Tulsi, Good Morning",Beverages,Tea,75,NA
+20,Male,38,Chocolate Shake With Real Belgian Chocolate,Beverages,Energy & Soft Drinks,80.33,4.8
+20,Male,38,Orange Ice Tea,Beverages,Tea,90,4
+20,Male,38,Maaza Juice - Mango 1.5 L + Coca Cola Soft Drink 1.75 L Bottle,Beverages,Energy & Soft Drinks,165,NA
+20,Male,38,Italian - Sausages Chicken,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150,NA
+20,Male,38,"Treat Croissant - Vanilla Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Cakes & Pastries,13.35,3.9
+20,Male,38,Fresh Turmeric - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,14,NA
+20,Male,38,Carrot - Sliced,Fruits & Vegetables,Fresh Vegetables,33,NA
+20,Male,38,Paneer - Garlic,"Bakery, Cakes & Dairy",Dairy,76.5,3.7
+20,Male,38,Beans - Cluster,Fruits & Vegetables,Fresh Vegetables,13.86,NA
+21,Female,27,Latte Coffee Cup,Beverages,Coffee,25,4.2
+21,Female,27,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+21,Female,27,Green Chilly - Chopped,Fruits & Vegetables,Herbs & Seasonings,18,NA
+21,Female,27,Coconut Oats Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",150,3.3
+21,Female,27,Haldi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,21.25,4
+21,Female,27,Mineral Water,Beverages,Water,70,4.2
+21,Female,27,Moonfils Choco Cream,"Bakery, Cakes & Dairy",Gourmet Breads,15,NA
+21,Female,27,"Pork - D Shape Cooked Breakfast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,NA
+22,Female,68,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+23,Female,32,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",37.25,NA
+23,Female,32,Glucose-D - Energy Boost with Vitamin D,Beverages,"Health Drink, Supplement",26.1,3.9
+23,Female,32,Probiotic Yogurt - Vanilla Bean,"Bakery, Cakes & Dairy",Dairy,25,4
+23,Female,32,Lettuce - Red,Fruits & Vegetables,Fresh Vegetables,16,NA
+23,Female,32,Organic Mulberry Wellness Drink - Natural,Beverages,Tea,60,3
+24,Female,72,Pomegranate 100% Fruit Juice - No Added Sugar,Beverages,Fruit Juices & Drinks,32.55,NA
+24,Female,72,Chinese Cabbage,Fruits & Vegetables,Exotic Fruits & Veggies,39,NA
+24,Female,72,Flawless Gel Face Wash - Papaya,Beauty & Hygiene,Skin Care,65,4.1
+24,Female,72,Ayurvedic Soap Combo (Buy 3 Get 75g Free),Beauty & Hygiene,Bath & Hand Wash,249.87,4.4
+24,Female,72,White Sandwich Bread Safe Preservative Free 400g + Burger Buns 150 g (Pack of 2),"Bakery, Cakes & Dairy",Breads & Buns,65,NA
+24,Female,72,"Non-Alcoholic Beer Bottle - Malt Beverage, Peach Flavour",Beverages,Energy & Soft Drinks,99,4
+24,Female,72,Lettuce - Romaine,Fruits & Vegetables,Exotic Fruits & Veggies,16,NA
+24,Female,72,Sambar Onion - Peeled (Small Onion),Fruits & Vegetables,Cuts & Sprouts,41,NA
+25,Female,26,Tomato - Hybrid,Fruits & Vegetables,Fresh Vegetables,14,NA
+25,Female,26,Danish - Tutty Frutty,"Bakery, Cakes & Dairy",Gourmet Breads,119,NA
+25,Female,26,Ginger - Chopped,Fruits & Vegetables,Cuts & Sprouts,24,NA
+25,Female,26,Eggs,"Eggs, Meat & Fish",Eggs,75,NA
+25,Female,26,Critters - Whole Wheat,"Bakery, Cakes & Dairy",Gourmet Breads,40,3.7
+25,Female,26,Carrots - Grated,Fruits & Vegetables,Cuts & Sprouts,30,NA
+25,Female,26,Snake gourd - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+25,Female,26,Pineapple,Fruits & Vegetables,Fresh Fruits,27.72,NA
+26,Male,40,Unsalted Butter,"Bakery, Cakes & Dairy",Dairy,48,4.2
+26,Male,40,Fresh Orange Cake With Pistachio,"Bakery, Cakes & Dairy",Cakes & Pastries,135,3.7
+26,Male,40,Caker Layered Cake - Butterscotch,"Bakery, Cakes & Dairy",Cakes & Pastries,30,4.1
+26,Male,40,Lettuce - Red,Fruits & Vegetables,Fresh Vegetables,16,NA
+26,Male,40,"Banana - Raw, Organically Grown",Fruits & Vegetables,Fresh Vegetables,22,NA
+26,Male,40,Khus & Saunf Ice Tea,Beverages,Tea,90,3
+26,Male,40,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Exotic Fruits & Veggies,49,NA
+26,Male,40,Cabbage - Organically Grown,Fruits & Vegetables,Fresh Vegetables,20,NA
+26,Male,40,Maaza Juice - Mango 1.5 L + Coca Cola Soft Drink 1.75 L Bottle,Beverages,Energy & Soft Drinks,165,NA
+27,Male,30,"Pumpkin - Disco, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,39,NA
+27,Male,30,Soft Drink - Original Taste,Beverages,Energy & Soft Drinks,85,4.3
+28,Male,59,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29,NA
+28,Male,59,Baby Corn - Unpeeled,Fruits & Vegetables,Exotic Fruits & Veggies,15,NA
+28,Male,59,Mango Banganapalli- Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,79,NA
+28,Male,59,Sweet Corn Kernels - Achari Masti,Fruits & Vegetables,Cuts & Sprouts,59,NA
+28,Male,59,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+29,Male,35,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+29,Male,35,Fresh Natural Thick Curd,"Bakery, Cakes & Dairy",Dairy,84,4.2
+30,Male,62,Grape Fruit - Indian,Fruits & Vegetables,Exotic Fruits & Veggies,79,NA
+31,Female,40,Cinnamon Milk Chocolate Dipped Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+31,Female,40,Mineral Water,Beverages,Water,70,4.2
+31,Female,40,FrutORS - Orange,Beverages,Energy & Soft Drinks,35,NA
+31,Female,40,Sports Drink - Blue Bolt Flavour,Beverages,Energy & Soft Drinks,50,4.4
+32,Female,60,"Beans - Cluster, Organically Grown",Fruits & Vegetables,Fresh Vegetables,20,NA
+32,Female,60,Soft Drink,Beverages,Energy & Soft Drinks,59.4,4.2
+32,Female,60,Soap Bar - Care,Beauty & Hygiene,Bath & Hand Wash,10,4.3
+32,Female,60,Coccinia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,13,NA
+32,Female,60,Taft Ultra Wet Gel - Ultra Strong 4,Beauty & Hygiene,Men's Grooming,425,NA
+32,Female,60,Cornetto Chokissimo,"Bakery, Cakes & Dairy",Ice Creams & Desserts,192,4.2
+32,Female,60,Flawless Gel Face Wash - Papaya,Beauty & Hygiene,Skin Care,65,4.1
+32,Female,60,Tomato - Cherry,Fruits & Vegetables,Exotic Fruits & Veggies,32,NA
+32,Female,60,Khus & Saunf Ice Tea,Beverages,Tea,90,3
+33,Male,76,Danish - Tutty Frutty,"Bakery, Cakes & Dairy",Gourmet Breads,119,NA
+33,Male,76,Assam Black Tea Bags - Indian Teetotallers,Beverages,Tea,99,NA
+33,Male,76,Basale Leaf,Fruits & Vegetables,Fresh Vegetables,12,NA
+33,Male,76,Table Butter - Pasteurised,"Bakery, Cakes & Dairy",Dairy,225,3.6
+34,Male,54,Juice - Pink Guava,Beverages,Fruit Juices & Drinks,19,NA
+34,Male,54,"Non-Alcoholic Beer Bottle - Malt Beverage, Apple Flavour",Beverages,Energy & Soft Drinks,99,4.5
+34,Male,54,Ginger - Chopped,Fruits & Vegetables,Cuts & Sprouts,24,NA
+34,Male,54,Grapes - Thompson Seedless,Fruits & Vegetables,Exotic Fruits & Veggies,76,NA
+34,Male,54,White Sandwich Bread Safe Preservative Free 400g + Burger Buns 150 g (Pack of 2),"Bakery, Cakes & Dairy",Breads & Buns,65,NA
+34,Male,54,Daily Fresh - Dahi,"Bakery, Cakes & Dairy",Dairy,20,4
+34,Male,54,Sweet Bread,"Bakery, Cakes & Dairy",Breads & Buns,40,NA
+35,Male,21,Badam Flavoured Milk,"Bakery, Cakes & Dairy",Dairy,25,4
+36,Male,56,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29,NA
+36,Male,56,"Tomato - Hybrid, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,7.5,NA
+36,Male,56,Snake Gourd,Fruits & Vegetables,Fresh Vegetables,12.5,NA
+36,Male,56,Tea Cake - Banana Walnut,"Bakery, Cakes & Dairy",Cakes & Pastries,159,NA
+36,Male,56,Marigold Flower - Yellow,Fruits & Vegetables,"Flower Bouquets, Bunches",15,NA
+37,Male,33,Haldi Milk,"Bakery, Cakes & Dairy",Dairy,23.75,4.2
+37,Male,33,Brinjal Bottle Shape 500 g + Cauliflower 1 pc + Cabbage 1 pc,Fruits & Vegetables,Fresh Vegetables,51.1,NA
+37,Male,33,"Juice - Fruit Power, Cranberry",Beverages,Fruit Juices & Drinks,206,NA
+37,Male,33,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+37,Male,33,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+37,Male,33,Critters - Whole Wheat,"Bakery, Cakes & Dairy",Gourmet Breads,40,3.7
+37,Male,33,"Banana - Raw, Diced",Fruits & Vegetables,Cuts & Sprouts,25,NA
+38,Male,38,Milkshake - Vanilla Ice Cream Flavour,"Bakery, Cakes & Dairy",Dairy,35,5
+38,Male,38,Beans - Julienne,Fruits & Vegetables,Cuts & Sprouts,43,NA
+38,Male,38,"Non-Alcoholic Beer Can - Malt Beverage, Pomegranate Flavoured",Beverages,Energy & Soft Drinks,49,2
+38,Male,38,Cucumber - Sliced,Fruits & Vegetables,Fresh Vegetables,26,NA
+38,Male,38,Garlic - Peeled,Fruits & Vegetables,Herbs & Seasonings,39,NA
+39,Male,26,Milk power Frappe Milkshake - Belgian Chocolate,"Bakery, Cakes & Dairy",Dairy,27,4.2
+39,Male,26,Sports Drink - Blue Bolt Flavour,Beverages,Energy & Soft Drinks,50,4.4
+39,Male,26,Banana Blossom - Peeled,Fruits & Vegetables,Cuts & Sprouts,37,NA
+39,Male,26,Milk Shake - Chocolate,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+40,Female,21,Lassi,"Bakery, Cakes & Dairy",Dairy,20,4.2
+40,Female,21,Sun Screen Cream SPF30,Beauty & Hygiene,Skin Care,100,4.1
+40,Female,21,Chicken - Salami Plain Slice,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150,NA
+40,Female,21,Flavoured Milk - Badam,"Bakery, Cakes & Dairy",Dairy,25,4.1
+40,Female,21,Spyroll,"Bakery, Cakes & Dairy",Cakes & Pastries,10,3.9
+40,Female,21,Dragon Fruit,Fruits & Vegetables,Fresh Fruits,85,NA
+40,Female,21,Natural Onion & Clary Sage Shampoo - Hair Fall & Dandruff Control,Beauty & Hygiene,Men's Grooming,499,NA
+40,Female,21,Darjeeling Tea - Long Leaf,Beverages,Tea,175,4.3
+41,Female,54,Rose Milk Shake,"Bakery, Cakes & Dairy",Dairy,32.55,4.2
+41,Female,54,Aam Panna Mango Drink,Beverages,Fruit Juices & Drinks,120,NA
+42,Female,38,Beetroot - Julienne,Fruits & Vegetables,Fresh Vegetables,26,NA
+42,Female,38,Dragon Fruit,Fruits & Vegetables,Fresh Fruits,85,NA
+42,Female,38,Rusk - Original,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",20,4
+42,Female,38,Milk Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+42,Female,38,Tru Apple,"Bakery, Cakes & Dairy",Dairy,10,4.1
+42,Female,38,Rusk - Jeera,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+43,Male,46,Beans - Diced,Fruits & Vegetables,Fresh Vegetables,43,NA
+43,Male,46,FrutORS - Orange,Beverages,Energy & Soft Drinks,35,NA
+44,Male,49,Lavash - Corn,"Bakery, Cakes & Dairy",Bakery Snacks,130.05,NA
+44,Male,49,Tomato - Green,Fruits & Vegetables,Fresh Vegetables,6,NA
+44,Male,49,Darjeeling Tea - Long Leaf,Beverages,Tea,175,4.3
+44,Male,49,Pen Sanitizer Spray,Beauty & Hygiene,Bath & Hand Wash,49,4.1
+44,Male,49,Cheese Slices,"Bakery, Cakes & Dairy",Dairy,130,4.2
+44,Male,49,Lettuce - Romaine,Fruits & Vegetables,Fresh Vegetables,16,NA
+44,Male,49,Squash - Pineapple,Beverages,Fruit Juices & Drinks,130,NA
+44,Male,49,Beetroot,Fruits & Vegetables,Fresh Vegetables,11.88,NA
+45,Male,47,Fruit Power Juice - Mixed Fruit,Beverages,Fruit Juices & Drinks,76,NA
+45,Male,47,Dill Leaves,Fruits & Vegetables,Herbs & Seasonings,25,NA
+45,Male,47,Pomegranate - Peeled,Fruits & Vegetables,Fresh Fruits,87,NA
+45,Male,47,Continental Speciale,Beverages,Coffee,70,4.2
+45,Male,47,Papaya - Medium,Fruits & Vegetables,Fresh Fruits,41.58,NA
+46,Male,51,Fruit Yoghurt - Strawberry,"Bakery, Cakes & Dairy",Dairy,79,4.1
+46,Male,51,Pineapple Cake,"Bakery, Cakes & Dairy",Cakes & Pastries,15,4.2
+47,Male,53,Celery,Fruits & Vegetables,Herbs & Seasonings,16.5,NA
+47,Male,53,Milkshake - Vanilla Ice Cream Flavour,"Bakery, Cakes & Dairy",Dairy,35,5
+47,Male,53,Rusk - Milk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",66.5,NA
+47,Male,53,"Beans - Cluster, Organically Grown",Fruits & Vegetables,Fresh Vegetables,20,NA
+48,Female,69,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+48,Female,69,Beard Comb,Beauty & Hygiene,Men's Grooming,299.25,5
+48,Female,69,White Sandwich Bread Safe Preservative Free 400g + Burger Buns 150 g (Pack of 2),"Bakery, Cakes & Dairy",Breads & Buns,65,NA
+48,Female,69,Sanitary Pads - Choice Ultra Wings Extra Large,Beauty & Hygiene,Feminine Hygiene,207.4,4.2
+49,Male,80,Beetroot - Julienne,Fruits & Vegetables,Fresh Vegetables,26,NA
+49,Male,80,"Cake - Dates Walnut, Whole Wheat Eggless","Bakery, Cakes & Dairy",Cakes & Pastries,129,3.2
+49,Male,80,"Butter Milk - Uht, Spicy","Bakery, Cakes & Dairy",Dairy,15,4
+49,Male,80,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+49,Male,80,Darjeeling Tea - Long Leaf,Beverages,Tea,175,4.3
+50,Female,48,Natural Age Control Night Cream,Beauty & Hygiene,Skin Care,798,5
+50,Female,48,Watermelon  - Small,Fruits & Vegetables,Fresh Fruits,24.95,NA
+50,Female,48,Table Butter - Pasteurised,"Bakery, Cakes & Dairy",Dairy,225,3.6
+50,Female,48,Muskmelon - Organically Grown,Fruits & Vegetables,Fresh Fruits,27,NA
+50,Female,48,Kool Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,139,4
+51,Male,58,Fresh Catch Fish Poppers,"Eggs, Meat & Fish",Fish & Seafood,162,NA
+51,Male,58,Banganapalli Mango,Fruits & Vegetables,Fresh Fruits,49,NA
+51,Male,58,Finger Millet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",45,4.2
+51,Male,58,Badam Milkshake,"Bakery, Cakes & Dairy",Dairy,43.5,3.8
+52,Other,48,Totapuri Mango,Fruits & Vegetables,Fresh Fruits,24,NA
+52,Other,48,Apple Fruit Juice,Beverages,Fruit Juices & Drinks,220,NA
+52,Other,48,Brown Bread,"Bakery, Cakes & Dairy",Breads & Buns,45,NA
+52,Other,48,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+53,Male,50,Cheddar Cheese Spread - Chilly Garlic,"Bakery, Cakes & Dairy",Dairy,85,4.2
+53,Male,50,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+53,Male,50,Tender Coconut Water,Beverages,Fruit Juices & Drinks,25,NA
+53,Male,50,Papaya - Raw,Fruits & Vegetables,Fresh Vegetables,46,NA
+53,Male,50,"Green Tea - Tulsi, Good Morning",Beverages,Tea,75,NA
+54,Male,58,Mackerel In Oil,"Eggs, Meat & Fish",Fish & Seafood,113.05,NA
+54,Male,58,Glucose-D - Energy Boost with Vitamin D,Beverages,"Health Drink, Supplement",26.1,3.9
+54,Male,58,Fruit Power - Masala Sugarcane,Beverages,Fruit Juices & Drinks,19,2.9
+54,Male,58,Choco Marble Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",120,2.3
+54,Male,58,Spinach - Chopped,Fruits & Vegetables,Fresh Vegetables,33,NA
+54,Male,58,Capsicum - Red,Fruits & Vegetables,Exotic Fruits & Veggies,65,NA
+54,Male,58,"Coffee - Powder, Extra Strong",Beverages,Coffee,74,4.2
+54,Male,58,Sugar Free Ice Cream - Vanilla with Chocolate Sauce,"Bakery, Cakes & Dairy",Ice Creams & Desserts,30,3.6
+54,Male,58,Raw Mango - Diced,Fruits & Vegetables,Herbs & Seasonings,26.25,NA
+54,Male,58,Thai Ginger,Fruits & Vegetables,Fresh Vegetables,38,NA
+55,Male,40,Eggs,"Eggs, Meat & Fish",Eggs,75,NA
+55,Male,40,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",37.25,NA
+55,Male,40,Rose Lassi,"Bakery, Cakes & Dairy",Dairy,20,4.1
+56,Female,40,Brinjal Bottle Shape 500 g + Cauliflower 1 pc + Cabbage 1 pc,Fruits & Vegetables,Fresh Vegetables,51.1,NA
+56,Female,40,Kool Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,139,4
+56,Female,40,Tricone - Butterscotch Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,25,3.6
+57,Male,40,"Fish - Rohu, Head","Eggs, Meat & Fish",Fish & Seafood,49,NA
+57,Male,40,Buttermilk - Spiced,"Bakery, Cakes & Dairy",Dairy,39.15,3.8
+57,Male,40,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+58,Female,79,Milk Shake - Vanilla,"Bakery, Cakes & Dairy",Dairy,20.1,4.1
+59,Male,21,Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,27,4.5
+59,Male,21,Beans Cluster - Diced,Fruits & Vegetables,Fresh Vegetables,25,NA
+59,Male,21,Organic Green Tea,Beverages,Tea,102,4.2
+59,Male,21,"Beans - Cluster, Organically Grown",Fruits & Vegetables,Fresh Vegetables,20,NA
+59,Male,21,Cheese Slices,"Bakery, Cakes & Dairy",Dairy,130,4.2
+59,Male,21,Fruit Power Juice - Mango,Beverages,Fruit Juices & Drinks,20,NA
+59,Male,21,Butter Milk - Spiced,"Bakery, Cakes & Dairy",Dairy,9.9,4.2
+59,Male,21,Zucchini - Green,Fruits & Vegetables,Exotic Fruits & Veggies,50,NA
+59,Male,21,"Cake - Dates Walnut, Whole Wheat Eggless","Bakery, Cakes & Dairy",Cakes & Pastries,129,3.2
+59,Male,21,Dill Leaves,Fruits & Vegetables,Fresh Vegetables,10,NA
+60,Male,40,Red Cabbage - Grated,Fruits & Vegetables,Fresh Vegetables,23,NA
+60,Male,40,"Pav - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,29,NA
+60,Male,40,Mango Banganapalli- Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,79,NA
+61,Male,33,Drink - Anar 200 ml + Juice - Santra 200 ml + Juice - Lychee Ras 200 ml,Beverages,Fruit Juices & Drinks,85,NA
+61,Male,33,Tricone - Butterscotch Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,25,3.6
+61,Male,33,Latte Coffee Cup,Beverages,Coffee,25,4.2
+61,Male,33,Cucumber - Sliced,Fruits & Vegetables,Fresh Vegetables,26,NA
+61,Male,33,Toned Milk,"Bakery, Cakes & Dairy",Dairy,23.29,4
+61,Male,33,Rusk - Milk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",66.5,NA
+61,Male,33,Red Cabbage - Grated,Fruits & Vegetables,Fresh Vegetables,23,NA
+62,Male,56,"Assorted Cookies - Fruit & Nut, Choc Chip","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",165.75,4.1
+62,Male,56,"Milkshake Mix, 200 g + Oreo - Choco Creme Biscuit, Family Pack, 300 g","Bakery, Cakes & Dairy",Dairy,239,NA
+62,Male,56,Pineapple - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,38,NA
+62,Male,56,Yellow Pumpkin - Avial Cut,Fruits & Vegetables,Cuts & Sprouts,25,NA
+62,Male,56,Moonfils Choco Cream,"Bakery, Cakes & Dairy",Gourmet Breads,15,NA
+62,Male,56,White Sandwich Bread Safe Preservative Free 400g + Burger Buns 150 g (Pack of 2),"Bakery, Cakes & Dairy",Breads & Buns,65,NA
+62,Male,56,Cup Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,35,3.6
+62,Male,56,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",37.25,NA
+62,Male,56,Bar Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,30,3.9
+62,Male,56,Sweet Corn - Pellets,Fruits & Vegetables,Exotic Fruits & Veggies,31,NA
+63,Female,25,Chocolate Milk Shake,"Bakery, Cakes & Dairy",Dairy,29.75,3.8
+63,Female,25,Tea,Beverages,Tea,229.5,4.1
+63,Female,25,Carrots - Grated,Fruits & Vegetables,Cuts & Sprouts,30,NA
+64,Male,79,"Butter Milk - Uht, Spicy","Bakery, Cakes & Dairy",Dairy,15,4
+64,Male,79,Baby Potato,Fruits & Vegetables,Exotic Fruits & Veggies,20,NA
+65,Male,76,Muskmelon - Organically Grown,Fruits & Vegetables,Fresh Fruits,27,NA
+65,Male,76,Pudina Buttermilk,"Bakery, Cakes & Dairy",Dairy,30,3.9
+65,Male,76,Orange Flavoured Tooti Frooti,"Bakery, Cakes & Dairy",Cakes & Pastries,25,3.8
+65,Male,76,Classic Green Organic Tea,Beverages,Tea,148.75,4.4
+65,Male,76,Green Tea - Pure & Light,Beverages,Tea,150,4.4
+65,Male,76,Buttermilk - Spiced,"Bakery, Cakes & Dairy",Dairy,39.15,3.8
+65,Male,76,Haldi Milk,"Bakery, Cakes & Dairy",Dairy,23.75,4.2
+65,Male,76,Earl Grey Black Tea,Beverages,Tea,159,4.4
+66,Male,83,Milk power Frappe Milkshake - Belgian Chocolate,"Bakery, Cakes & Dairy",Dairy,27,4.2
+66,Male,83,Dragon Fruit,Fruits & Vegetables,Fresh Fruits,85,NA
+66,Male,83,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+66,Male,83,"Pizza Base - Whole Wheat, Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39,NA
+66,Male,83,Sun Melon,Fruits & Vegetables,Fresh Fruits,34,NA
+66,Male,83,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46,NA
+66,Male,83,White Radish - Sliced,Fruits & Vegetables,Cuts & Sprouts,29,NA
+67,Female,69,Coconut - Diced,Fruits & Vegetables,Cuts & Sprouts,39,NA
+67,Female,69,Four Cheese,"Bakery, Cakes & Dairy",Dairy,145,4.1
+67,Female,69,Rusk - Original,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",20,4
+68,Female,26,Forbidden For Men Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,2512.5,NA
+68,Female,26,Blissful Perfecting Mask,Beauty & Hygiene,Skin Care,335.75,NA
+68,Female,26,The Good Eggs Cage Free Eggs,"Eggs, Meat & Fish",Eggs,99,NA
+68,Female,26,Yam - Diced,Fruits & Vegetables,Fresh Vegetables,27,NA
+68,Female,26,Wholewheat Sandwich Loaf - 100% Whole Wheat,"Bakery, Cakes & Dairy",Breads & Buns,49,NA
+69,Other,31,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+69,Other,31,Cinnamon Milk Chocolate Dipped Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+69,Other,31,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+70,Male,45,"Lychee Ras, Litchi Juice",Beverages,Fruit Juices & Drinks,20,NA
+70,Male,45,FrutORS - Orange,Beverages,Energy & Soft Drinks,35,NA
+71,Male,24,Carrot Strips and Beans Strip,Fruits & Vegetables,Cuts & Sprouts,37,NA
+72,Male,18,Mango Mallika - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,83,NA
+72,Male,18,Juice - Mango Refresh,Beverages,Fruit Juices & Drinks,10,NA
+72,Male,18,Coccinia - Julienne,Fruits & Vegetables,Cuts & Sprouts,23,NA
+73,Female,28,Lassi,"Bakery, Cakes & Dairy",Dairy,20,4.2
+73,Female,28,Spinach - Chopped,Fruits & Vegetables,Fresh Vegetables,33,NA
+74,Female,56,Chow Chow,Fruits & Vegetables,Fresh Vegetables,16.83,NA
+74,Female,56,Mozzarella Blend Dice,"Bakery, Cakes & Dairy",Dairy,115,3.9
+74,Female,56,Alphonso Mango - Badami,Fruits & Vegetables,Fresh Fruits,123,NA
+74,Female,56,Rusk - Garlic,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+75,Male,71,Kool - Kesar,"Bakery, Cakes & Dairy",Dairy,18,4.3
+75,Male,71,Rose Milk Shake,"Bakery, Cakes & Dairy",Dairy,32.55,4.2
+75,Male,71,Cream - Fresh,"Bakery, Cakes & Dairy",Dairy,50,4
+75,Male,71,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+75,Male,71,Glucose-D - Energy Boost with Vitamin D,Beverages,"Health Drink, Supplement",26.1,3.9
+75,Male,71,Tender Coconut - Medium,Fruits & Vegetables,Cuts & Sprouts,46,NA
+75,Male,71,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+75,Male,71,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+76,Male,20,Soy Milky - Elaichi Flavour,"Bakery, Cakes & Dairy",Dairy,54,3.6
+76,Male,20,Soft Drink - With Real Lemon Juice,Beverages,Fruit Juices & Drinks,20,NA
+76,Male,20,Coconut Milk Yogurt - Alphonso Mango,"Bakery, Cakes & Dairy",Dairy,168,3.9
+76,Male,20,Organic Mulberry Wellness Drink - Natural,Beverages,Tea,60,3
+76,Male,20,Instant Drink Mix - Orange,Beverages,Fruit Juices & Drinks,126,4.3
+76,Male,20,Italian - Sausages Chicken,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150,NA
+76,Male,20,Assam Black Tea Bags - Indian Teetotallers,Beverages,Tea,99,NA
+77,Male,33,Juice - Mixed Fruit Merry,Beverages,Fruit Juices & Drinks,155.03,NA
+77,Male,33,Ridge Gourd - Diced,Fruits & Vegetables,Cuts & Sprouts,45,NA
+77,Male,33,3-In-1 Masala Chai,Beverages,Tea,100,3
+77,Male,33,Coconut Milk Yogurt - Alphonso Mango,"Bakery, Cakes & Dairy",Dairy,168,3.9
+77,Male,33,Flavoured Milk - Chocolate,"Bakery, Cakes & Dairy",Dairy,96,4.1
+77,Male,33,Ginger - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,6,NA
+77,Male,33,Soft Drink - Orange,Beverages,Energy & Soft Drinks,27,4.2
+78,Male,46,Alphonso Mango Nectar With Organic Saffron,Beverages,Fruit Juices & Drinks,50,NA
+78,Male,46,"Juice - Litchi, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+78,Male,46,Red Cabbage - Grated,Fruits & Vegetables,Cuts & Sprouts,23,NA
+78,Male,46,Mineral Water,Beverages,Water,240,4.2
+78,Male,46,Ladies Finger - Diced,Fruits & Vegetables,Cuts & Sprouts,27,NA
+79,Male,29,"Pav - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,29,NA
+79,Male,29,Vedic Suraksha Black Tea,Beverages,Tea,175,4.6
+79,Male,29,Badam Drink Mix,Beverages,"Health Drink, Supplement",215,4.2
+79,Male,29,"Assorted Cookies - Fruit & Nut, Choc Chip","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",165.75,4.1
+79,Male,29,Khari - Ajwain,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",79,NA
+79,Male,29,Almond Milk - Chocolate,"Bakery, Cakes & Dairy",Non Dairy,148.96,3.8
+79,Male,29,"Juice - Litchi, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+80,Male,16,Ginger,Fruits & Vegetables,Herbs & Seasonings,15,NA
+80,Male,16,Colocasia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,11,NA
+80,Male,16,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29,NA
+80,Male,16,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",37.25,NA
+80,Male,16,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+80,Male,16,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+80,Male,16,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+81,Female,70,Carrots - Grated,Fruits & Vegetables,Cuts & Sprouts,30,NA
+81,Female,70,Filter Coffee Decoction,Beverages,Coffee,55,3.6
+81,Female,70,Soft Drink - With Real Lemon Juice,Beverages,Fruit Juices & Drinks,20,NA
+81,Female,70,The Good Eggs Cage Free Eggs,"Eggs, Meat & Fish",Eggs,99,NA
+81,Female,70,Biscuits - Moon,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",142.5,NA
+81,Female,70,Flavoured Milk - Badam,"Bakery, Cakes & Dairy",Dairy,25,4.1
+81,Female,70,"Coffee - Powder, Extra Strong",Beverages,Coffee,74,4.2
+81,Female,70,Milkshake - Vanilla Ice Cream Flavour,"Bakery, Cakes & Dairy",Dairy,35,5
+82,Male,62,Kool - Kesar,"Bakery, Cakes & Dairy",Dairy,18,4.3
+82,Male,62,Alphonso Mango Nectar With Organic Saffron,Beverages,Fruit Juices & Drinks,50,NA
+82,Male,62,Red Cabbage - Grated,Fruits & Vegetables,Cuts & Sprouts,23,NA
+82,Male,62,Pineapple - Slices,Fruits & Vegetables,Cuts & Sprouts,27,NA
+83,Female,29,Cinnamon Milk Chocolate Dipped Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+83,Female,29,Milk Power Frappe Milkshake - French Vanilla,"Bakery, Cakes & Dairy",Dairy,105.84,4.3
+83,Female,29,Onion - Thin Sliced,Fruits & Vegetables,Cuts & Sprouts,22,NA
+83,Female,29,Watermelon  - Small,Fruits & Vegetables,Fresh Fruits,24.95,NA
+83,Female,29,100% Wholewheat Lemon Loaf With Honey,"Bakery, Cakes & Dairy",Cakes & Pastries,139,3.8
+84,Male,28,Instant Drink Mix - Mango,Beverages,Fruit Juices & Drinks,120,4.3
+84,Male,28,"Banana - Raw, Organically Grown",Fruits & Vegetables,Fresh Vegetables,22,NA
+84,Male,28,Khus & Saunf Ice Tea,Beverages,Tea,90,3
+84,Male,28,Soy Milk - Unsweetened,"Bakery, Cakes & Dairy",Non Dairy,108,3.7
+84,Male,28,Fruit Power - Masala Sugarcane,Beverages,Fruit Juices & Drinks,19,2.9
+84,Male,28,Squash - Kokum Kadi,Beverages,Fruit Juices & Drinks,110,5
+85,Male,84,Green Mango 100% Fruit Juice - No Added Sugar,Beverages,Fruit Juices & Drinks,22.55,NA
+85,Male,84,Yellow Pumpkin - Avial Cut,Fruits & Vegetables,Cuts & Sprouts,25,NA
+85,Male,84,Table Butter - Pasteurised,"Bakery, Cakes & Dairy",Dairy,225,3.6
+86,Male,48,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",37.25,NA
+86,Male,48,Bitter Gourd - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,14,NA
+86,Male,48,Fruit Power Juice - Mixed Fruit,Beverages,Fruit Juices & Drinks,76,NA
+86,Male,48,Neelam Mango,Fruits & Vegetables,Fresh Fruits,62,NA
+86,Male,48,Fusion Gift Pack - Razor + 2S Cartridge + Hydra Gel,Beauty & Hygiene,Men's Grooming,832.02,5
+87,Other,28,Drumstick/Moringa,Fruits & Vegetables,Fresh Vegetables,21.78,NA
+87,Other,28,Beetroot,Fruits & Vegetables,Fresh Vegetables,11.88,NA
+87,Other,28,Ragi Powder - Sprouted & Roasted,Beverages,"Health Drink, Supplement",120,4.5
+87,Other,28,Beetroot - Diced,Fruits & Vegetables,Cuts & Sprouts,26,NA
+87,Other,28,"Green Tea - Tulsi, Good Morning",Beverages,Tea,75,NA
+87,Other,28,Palak 250g+Ladies Finger 500g+Cucumber 1kg+Capsicum Green 500g+Bottle Gourd 1pc,Fruits & Vegetables,Fresh Vegetables,112.27,NA
+87,Other,28,Soya Milk - Vanilla,"Bakery, Cakes & Dairy",Dairy,77.17,4.2
+88,Male,66,Lettuce - Romaine,Fruits & Vegetables,Fresh Vegetables,16,NA
+88,Male,66,Rusk - Original,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",20,4
+88,Male,66,Rusk - Jeera,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+88,Male,66,Fresh Cream,"Bakery, Cakes & Dairy",Dairy,47,3.7
+88,Male,66,"Pizza Base - Whole Wheat, Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39,NA
+88,Male,66,Pomegranate - Peeled,Fruits & Vegetables,Fresh Fruits,87,NA
+88,Male,66,Lettuce - Red,Fruits & Vegetables,Fresh Vegetables,16,NA
+89,Male,22,Lychee - Litchi Fruit Juice,Beverages,Fruit Juices & Drinks,80,NA
+89,Male,22,Marigold Flower - Yellow,Fruits & Vegetables,"Flower Bouquets, Bunches",15,NA
+89,Male,22,Kool Milk Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,83.01,4.2
+89,Male,22,Instant Drink Mix - Orange,Beverages,Fruit Juices & Drinks,126,4.3
+89,Male,22,Thums Up,Beverages,Energy & Soft Drinks,160,4.3
+89,Male,22,Mango Mallika - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,83,NA
+89,Male,22,Coccinia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,13,NA
+90,Female,81,Organic Tulsi Bags,Beverages,Tea,102,3.2
+90,Female,81,Mango Tothapuri - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,30,NA
+90,Female,81,Coconut Oats Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",150,3.3
+90,Female,81,Apple Fruit Juice,Beverages,Fruit Juices & Drinks,220,NA
+90,Female,81,Xtra Coffee Pouch,Beverages,Coffee,57.5,4.1
+91,Female,71,Cucumber,Fruits & Vegetables,Fresh Vegetables,10.89,NA
+91,Female,71,Chocolate Shake With Real Belgian Chocolate,Beverages,Energy & Soft Drinks,80.33,4.8
+92,Female,33,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+92,Female,33,Yellow Pumpkin - Avial Cut,Fruits & Vegetables,Cuts & Sprouts,25,NA
+92,Female,33,"Instant Energy Health Drink - Nimbu Pani, Refill",Beverages,Energy & Soft Drinks,70,4.3
+92,Female,33,Ginger,Fruits & Vegetables,Herbs & Seasonings,15,NA
+93,Male,61,Sambar Onion - Peeled (Small Onion),Fruits & Vegetables,Cuts & Sprouts,41,NA
+93,Male,61,Carrots - Diced,Fruits & Vegetables,Cuts & Sprouts,32,NA
+93,Male,61,Mango Banganapalli- Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,79,NA
+93,Male,61,Paneer,"Bakery, Cakes & Dairy",Dairy,73.26,3.9
+93,Male,61,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235,3
+93,Male,61,Face Scrub - Strawberry Extract,Beauty & Hygiene,Skin Care,375,NA
+93,Male,61,Bar Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,30,3.9
+94,Female,30,Fresh Figs,Fruits & Vegetables,Fresh Fruits,40,NA
+94,Female,30,Ready To Cook - Masala Mackerel,"Eggs, Meat & Fish",Fish & Seafood,65,NA
+94,Female,30,Fried Rice Mix,Fruits & Vegetables,Cuts & Sprouts,45,NA
+94,Female,30,Creami - Cheese Spread,"Bakery, Cakes & Dairy",Dairy,80,4.3
+94,Female,30,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+94,Female,30,Raw Mango - Diced,Fruits & Vegetables,Herbs & Seasonings,26.25,NA
+94,Female,30,Mango Banganapalli- Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,79,NA
+94,Female,30,Orange Ice Tea,Beverages,Tea,90,4
+95,Female,48,Papaya - Raw,Fruits & Vegetables,Fresh Vegetables,46,NA
+95,Female,48,Continental Speciale,Beverages,Coffee,70,4.2
+95,Female,48,Paneer - Garlic,"Bakery, Cakes & Dairy",Dairy,76.5,3.7
+95,Female,48,Fruit Yoghurt - Strawberry,"Bakery, Cakes & Dairy",Dairy,79,4.1
+95,Female,48,Pumpkin Green - Cut,Fruits & Vegetables,Cuts & Sprouts,28,NA
+95,Female,48,Tomato - Green,Fruits & Vegetables,Fresh Vegetables,6,NA
+96,Male,78,Roll Yo! Choco Swiss Roll,"Bakery, Cakes & Dairy",Cakes & Pastries,10,4.1
+96,Male,78,Cream - Fresh,"Bakery, Cakes & Dairy",Dairy,50,4
+96,Male,78,Flavoured Milk - Chocolate,"Bakery, Cakes & Dairy",Dairy,96,4.1
+96,Male,78,Mushrooms - Button,Fruits & Vegetables,Exotic Fruits & Veggies,44.55,NA
+96,Male,78,Beans Cluster - Diced,Fruits & Vegetables,Fresh Vegetables,25,NA
+97,Female,66,Pineapple - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,38,NA
+97,Female,66,Quick Chai Masala,Beverages,Tea,109.2,3.5
+97,Female,66,"Beans - Cluster, Organically Grown",Fruits & Vegetables,Fresh Vegetables,20,NA
+97,Female,66,Mint - Chopped,Fruits & Vegetables,Fresh Vegetables,24,NA
+97,Female,66,Drinking Water With Added Minerals,Beverages,Water,9,4.1
+97,Female,66,Yam - Sliced,Fruits & Vegetables,Fresh Vegetables,27,NA
+97,Female,66,"Juice - Anaar, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+97,Female,66,Chicken Shami Kabab,"Eggs, Meat & Fish","Sausages, Bacon & Salami",237.9,NA
+97,Female,66,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,92.06,4.1
+97,Female,66,Rusk - Garlic,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+98,Female,34,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+99,Female,41,Germ Kill Spray Foam,Beauty & Hygiene,Bath & Hand Wash,198,1
+99,Female,41,Mahatriphaladya Ghrita,Beauty & Hygiene,Health & Medicine,170,NA
+99,Female,41,Neem Giloy (Amruta Balli) - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,13,NA
+99,Female,41,Prawns - Pud Large,"Eggs, Meat & Fish",Fish & Seafood,230,NA
+99,Female,41,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+100,Male,75,Beans - Julienne,Fruits & Vegetables,Cuts & Sprouts,43,NA
+100,Male,75,Methi 250 g + Coriander Leaves 100 g + Palak 250 g + Curry Leaves 100 g,Fruits & Vegetables,Fresh Vegetables,72.45,NA
+100,Male,75,Jamun Drink,Beverages,Fruit Juices & Drinks,50,NA
+100,Male,75,Badam Flavoured Milk,"Bakery, Cakes & Dairy",Dairy,25,4
+100,Male,75,Almond Milk - Chocolate,"Bakery, Cakes & Dairy",Non Dairy,148.96,3.8
+100,Male,75,Biscuits - Moon,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",142.5,NA
+100,Male,75,Classic Green Organic Tea,Beverages,Tea,148.75,4.4
+100,Male,75,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+101,Male,38,Amrakhand - With Real Mango,"Bakery, Cakes & Dairy",Dairy,45,3.9
+101,Male,38,Butter Milk - Spiced,"Bakery, Cakes & Dairy",Dairy,9.9,4.2
+101,Male,38,Caker Swiss Roll Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,60,4.1
+101,Male,38,Frozen Dessert - Crunchy Butterscotch,"Bakery, Cakes & Dairy",Ice Creams & Desserts,126.65,3.5
+102,Male,29,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+102,Male,29,Kool Milk Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,83.01,4.2
+102,Male,29,Mushrooms - Button,Fruits & Vegetables,Exotic Fruits & Veggies,44.55,NA
+102,Male,29,"Pork - D Shape Cooked Breakfast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,NA
+102,Male,29,Fried Rice Mix,Fruits & Vegetables,Cuts & Sprouts,45,NA
+102,Male,29,Ladies Finger,Fruits & Vegetables,Fresh Vegetables,26.73,NA
+102,Male,29,Pineapple - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,38,NA
+103,Female,19,Muskmelon - Diced,Fruits & Vegetables,Fresh Fruits,29,NA
+103,Female,19,Ready-to-Drink Iced Tea - Lemon Flavour,Beverages,Fruit Juices & Drinks,25,3.9
+103,Female,19,Organic Unsalted Butter,"Bakery, Cakes & Dairy",Dairy,137.7,4.6
+103,Female,19,"Treat Croissant - Vanilla Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Cakes & Pastries,13.35,3.9
+103,Female,19,Mango Sindura - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,64,NA
+103,Female,19,"Capsicum - Yellow, Organically Grown",Fruits & Vegetables,Exotic Fruits & Veggies,29,NA
+104,Female,35,Biscuits - Badam Pista,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",85,NA
+104,Female,35,Knol Khol,Fruits & Vegetables,Fresh Vegetables,25,NA
+104,Female,35,"White Sandwich Bread - Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39,NA
+104,Female,35,"Banana - Raw, Diced",Fruits & Vegetables,Cuts & Sprouts,25,NA
+104,Female,35,Olive Face Scrub,Beauty & Hygiene,Skin Care,157.5,4
+104,Female,35,Tofu Supreme - Regular,"Bakery, Cakes & Dairy",Non Dairy,108,2.8
+105,Female,66,Ginger - Chopped,Fruits & Vegetables,Herbs & Seasonings,24,NA
+105,Female,66,Lettuce - Red,Fruits & Vegetables,Fresh Vegetables,16,NA
+105,Female,66,Lavash - Corn,"Bakery, Cakes & Dairy",Bakery Snacks,130.05,NA
+105,Female,66,Khatai - Two In One,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",65,NA
+105,Female,66,"Pizza Base - Whole Wheat, Safe, Preservative Free","Bakery, Cakes & Dairy",Breads & Buns,39,NA
+105,Female,66,Soft Drink - Orange,Beverages,Energy & Soft Drinks,27,4.2
+105,Female,66,"Treat Croissant - Vanilla Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Cakes & Pastries,13.35,3.9
+105,Female,66,Tomato - Green,Fruits & Vegetables,Fresh Vegetables,6,NA
+106,Male,51,Spinach - Chopped,Fruits & Vegetables,Fresh Vegetables,33,NA
+106,Male,51,Sambar Onion - Organically Grown,Fruits & Vegetables,Fresh Vegetables,34,NA
+106,Male,51,"Banana - Yellaki, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,33,NA
+106,Male,51,Caker Layered Cake - Butterscotch,"Bakery, Cakes & Dairy",Cakes & Pastries,30,4.1
+106,Male,51,Sapota,Fruits & Vegetables,Fresh Fruits,34,NA
+106,Male,51,Mackeral Fish,"Eggs, Meat & Fish",Fish & Seafood,60,NA
+106,Male,51,Vedic Suraksha Black Tea,Beverages,Tea,175,4.6
+106,Male,51,Four Cheese,"Bakery, Cakes & Dairy",Dairy,145,4.1
+106,Male,51,Bitter Gourd - Organically Grown,Fruits & Vegetables,Fresh Vegetables,14,NA
+107,Male,69,Kool - Kesar,"Bakery, Cakes & Dairy",Dairy,18,4.3
+107,Male,69,Cut - Mushroom,Fruits & Vegetables,Exotic Fruits & Veggies,46,NA
+107,Male,69,Pak Choi,Fruits & Vegetables,Fresh Vegetables,25,NA
+107,Male,69,Ridge Gourd - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,40,NA
+107,Male,69,Maaza Juice - Mango 1.5 L + Coca Cola Soft Drink 1.75 L Bottle,Beverages,Energy & Soft Drinks,165,NA
+107,Male,69,"Treat Croissant - Cocoa Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Cakes & Pastries,13.35,4
+107,Male,69,"Pumpkin - Disco, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,39,NA
+108,Female,32,Pineapple Flavoured Tooti Frooti,"Bakery, Cakes & Dairy",Cakes & Pastries,25,3.8
+108,Female,32,Buttermilk - Spiced,"Bakery, Cakes & Dairy",Dairy,39.15,3.8
+108,Female,32,Biscuits - Badam Pista,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",85,NA
+108,Female,32,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,92.06,4.1
+108,Female,32,Tender Coconut Water,Beverages,Fruit Juices & Drinks,25,NA
+108,Female,32,Sapota,Fruits & Vegetables,Fresh Fruits,34,NA
+108,Female,32,Bread - Brown,"Bakery, Cakes & Dairy",Breads & Buns,45,NA
+108,Female,32,Marigold Flower - Yellow,Fruits & Vegetables,"Flower Bouquets, Bunches",15,NA
+109,Female,67,Garlic - Peeled,Fruits & Vegetables,Herbs & Seasonings,39,NA
+110,Male,75,Coconut - Medium,Fruits & Vegetables,Fresh Fruits,27.72,NA
+110,Male,75,"Treat Croissant - Cocoa Creme Roll, 100% Veg","Bakery, Cakes & Dairy",Cakes & Pastries,13.35,4
+110,Male,75,Soft Drink - With Real Lemon Juice,Beverages,Fruit Juices & Drinks,20,NA
+110,Male,75,Bitter Gourd - Organically Grown,Fruits & Vegetables,Fresh Vegetables,14,NA
+110,Male,75,Beans - Julienne,Fruits & Vegetables,Cuts & Sprouts,43,NA
+110,Male,75,Alphonso Mango Nectar With Organic Saffron,Beverages,Fruit Juices & Drinks,50,NA
+110,Male,75,Aam Panna Mango Drink,Beverages,Fruit Juices & Drinks,120,NA
+110,Male,75,Pak Choi,Fruits & Vegetables,Fresh Vegetables,25,NA
+110,Male,75,Rose Milk Shake,"Bakery, Cakes & Dairy",Dairy,32.55,4.2
+111,Female,76,Cucumber - Sliced,Fruits & Vegetables,Fresh Vegetables,26,NA
+111,Female,76,Paneer - Regular,"Bakery, Cakes & Dairy",Dairy,72,3.5
+111,Female,76,Coconut - Diced,Fruits & Vegetables,Cuts & Sprouts,39,NA
+111,Female,76,Sweet Corn - Pellets,Fruits & Vegetables,Exotic Fruits & Veggies,31,NA
+111,Female,76,Organic Green Tea,Beverages,Tea,102,4.2
+111,Female,76,Bread - Pav,"Bakery, Cakes & Dairy",Breads & Buns,30,NA
+112,Male,47,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+112,Male,47,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+112,Male,47,"Juice - Fruit Power, Cranberry",Beverages,Fruit Juices & Drinks,206,NA
+112,Male,47,Orange Ice Tea,Beverages,Tea,90,4
+112,Male,47,Sardine In Soy Sauce,"Eggs, Meat & Fish",Fish & Seafood,103.55,NA
+112,Male,47,Sports Drink - Blue Bolt Flavour,Beverages,Energy & Soft Drinks,50,4.4
+112,Male,47,"Assorted Cookies - Fruit & Nut, Choc Chip","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",165.75,4.1
+112,Male,47,Mushrooms - Button,Fruits & Vegetables,Exotic Fruits & Veggies,44.55,NA
+112,Male,47,Fruit Power - Litchi,Beverages,Fruit Juices & Drinks,171,NA
+112,Male,47,Watermelon - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,39,NA
+113,Male,39,Garlic - Peeled,Fruits & Vegetables,Herbs & Seasonings,39,NA
+113,Male,39,Sweet Corn Kernels - Chipotle,Fruits & Vegetables,Cuts & Sprouts,55,NA
+114,Female,51,Bitter Gourd - Sliced,Fruits & Vegetables,Cuts & Sprouts,30,NA
+114,Female,51,Chocolate Health Drink - Bournvita Little Champs,Beverages,"Health Drink, Supplement",145,4.2
+114,Female,51,Bar Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,30,3.9
+114,Female,51,Soya Milk - Vanilla,"Bakery, Cakes & Dairy",Dairy,77.17,4.2
+114,Female,51,Chrysanthemum/Shevanti Flower,Fruits & Vegetables,"Flower Bouquets, Bunches",26,NA
+114,Female,51,Tomato - Hybrid,Fruits & Vegetables,Fresh Vegetables,14,NA
+115,Male,62,Cabbage - Red,Fruits & Vegetables,Exotic Fruits & Veggies,23,NA
+115,Male,62,Spinach - Chopped,Fruits & Vegetables,Cuts & Sprouts,33,NA
+115,Male,62,Fresh Toned Milk,"Bakery, Cakes & Dairy",Dairy,33,4.2
+115,Male,62,Instant Drink Mix - Orange,Beverages,Fruit Juices & Drinks,126,4.3
+115,Male,62,Eggs,"Eggs, Meat & Fish",Eggs,75,NA
+116,Female,77,Chocolate Milk Shake,"Bakery, Cakes & Dairy",Dairy,29.75,3.8
+116,Female,77,Quick Chai Masala,Beverages,Tea,109.2,3.5
+116,Female,77,Moonfils Choco Cream,"Bakery, Cakes & Dairy",Gourmet Breads,15,NA
+116,Female,77,Fruit Yoghurt - Strawberry,"Bakery, Cakes & Dairy",Dairy,79,4.1
+116,Female,77,Milk Power Frappe Milkshake - French Vanilla,"Bakery, Cakes & Dairy",Dairy,105.84,4.3
+116,Female,77,Cabbage - Organically Grown,Fruits & Vegetables,Fresh Vegetables,20,NA
+116,Female,77,Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,27,4.5
+116,Female,77,Flavoured Milk - Chocolate,"Bakery, Cakes & Dairy",Dairy,96,4.1
+117,Female,24,Deodorant - Identity,Beauty & Hygiene,Men's Grooming,299,4
+117,Female,24,Danish Butter Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",239,NA
+117,Female,24,Orange Ice Tea,Beverages,Tea,90,4
+117,Female,24,Condoms - Pina Colada,Beauty & Hygiene,Health & Medicine,80,4.6
+118,Female,23,Broad Beans - Diced,Fruits & Vegetables,Fresh Vegetables,33,NA
+118,Female,23,Ragi Powder - Sprouted & Roasted,Beverages,"Health Drink, Supplement",120,4.5
+118,Female,23,Amaranthus - Chopped,Fruits & Vegetables,Cuts & Sprouts,25,NA
+118,Female,23,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235,3
+119,Male,46,Biscuits - Badam Pista,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",85,NA
+119,Male,46,Millet Rusk - Sweet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",100,4.5
+119,Male,46,Spinach - Chopped,Fruits & Vegetables,Fresh Vegetables,33,NA
+119,Male,46,Condoms - Pina Colada,Beauty & Hygiene,Health & Medicine,80,4.6
+119,Male,46,Coconut Oats Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",150,3.3
+120,Male,27,Tea Cake - Banana Walnut,"Bakery, Cakes & Dairy",Cakes & Pastries,159,NA
+120,Male,27,Banana Blossom - Peeled,Fruits & Vegetables,Cuts & Sprouts,37,NA
+120,Male,27,Freshly Baked - Plain Lavash,"Bakery, Cakes & Dairy",Bakery Snacks,99.45,NA
+120,Male,27,Mango Mallika - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,83,NA
+120,Male,27,Caker Swiss Roll Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,60,4.1
+120,Male,27,Soy Milky - Elaichi Flavour,"Bakery, Cakes & Dairy",Dairy,54,3.6
+120,Male,27,Beans - Cluster,Fruits & Vegetables,Fresh Vegetables,13.86,NA
+120,Male,27,Roll Yo! Choco Swiss Roll,"Bakery, Cakes & Dairy",Cakes & Pastries,10,4.1
+120,Male,27,Finger Millet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",45,4.2
+120,Male,27,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+121,Female,53,"Cake - Dates Walnut, Whole Wheat Eggless","Bakery, Cakes & Dairy",Cakes & Pastries,129,3.2
+121,Female,53,Almond Milk - Chocolate,"Bakery, Cakes & Dairy",Dairy,148.96,3.8
+121,Female,53,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46,NA
+121,Female,53,Bitter Gourd - Sliced,Fruits & Vegetables,Cuts & Sprouts,30,NA
+122,Female,82,Paneer - Garlic,"Bakery, Cakes & Dairy",Dairy,76.5,3.7
+122,Female,82,Soft Drink - With Real Lemon Juice,Beverages,Fruit Juices & Drinks,20,NA
+122,Female,82,Go Zappy Apple - Active Hydration Drink With Zero Sugar & No Preservatives,Beverages,Energy & Soft Drinks,60,3.3
+122,Female,82,Cabbage - Organically Grown,Fruits & Vegetables,Fresh Vegetables,20,NA
+122,Female,82,Glucose-D - Energy Boost with Vitamin D,Beverages,"Health Drink, Supplement",26.1,3.9
+122,Female,82,Cinnamon Milk Chocolate Dipped Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",49,NA
+122,Female,82,Mushrooms - Button,Fruits & Vegetables,Exotic Fruits & Veggies,44.55,NA
+122,Female,82,Soya Milk - Vanilla,"Bakery, Cakes & Dairy",Dairy,77.17,4.2
+122,Female,82,"Capsicum - Red, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,29,NA
+122,Female,82,Pineapple,Fruits & Vegetables,Fresh Fruits,27.72,NA
+123,Male,35,"Juice - Fruit Power, Pomegranate/Anar",Beverages,Fruit Juices & Drinks,114,NA
+123,Male,35,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,92.06,4.1
+123,Male,35,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Exotic Fruits & Veggies,49,NA
+123,Male,35,Spring Onion - Chopped,Fruits & Vegetables,Fresh Vegetables,46,NA
+123,Male,35,Fresh Natural Thick Curd,"Bakery, Cakes & Dairy",Dairy,84,4.2
+123,Male,35,Tea,Beverages,Tea,229.5,4.1
+123,Male,35,"Banana - Raw, Diced",Fruits & Vegetables,Cuts & Sprouts,25,NA
+123,Male,35,Badam Flavoured Milk,"Bakery, Cakes & Dairy",Dairy,25,4
+123,Male,35,Dill Leaves,Fruits & Vegetables,Herbs & Seasonings,25,NA
+124,Female,28,Kool - Kesar,"Bakery, Cakes & Dairy",Dairy,18,4.3
+125,Female,69,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Cuts & Sprouts,49,NA
+126,Female,75,Mineral Water,Beverages,Water,70,4.2
+126,Female,75,Finger Millet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",45,4.2
+126,Female,75,Moisturizing Hand Sanitizer,Beauty & Hygiene,Bath & Hand Wash,480,3.9
+126,Female,75,Danish - Blueberry,"Bakery, Cakes & Dairy",Gourmet Breads,119,NA
+126,Female,75,Sun Screen Cream SPF30,Beauty & Hygiene,Skin Care,100,4.1
+127,Female,48,Beans Cluster - Diced,Fruits & Vegetables,Fresh Vegetables,25,NA
+127,Female,48,Paneer - Garlic,"Bakery, Cakes & Dairy",Dairy,76.5,3.7
+127,Female,48,Organic Unsalted Butter,"Bakery, Cakes & Dairy",Dairy,137.7,4.6
+127,Female,48,Lettuce - Romaine,Fruits & Vegetables,Fresh Vegetables,16,NA
+127,Female,48,"Juice - Litchi, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+127,Female,48,Chrysanthemum/Shevanti Flower,Fruits & Vegetables,"Flower Bouquets, Bunches",26,NA
+127,Female,48,Muskmelon - Organically Grown,Fruits & Vegetables,Fresh Fruits,27,NA
+127,Female,48,Sardine In Soy Sauce,"Eggs, Meat & Fish",Fish & Seafood,103.55,NA
+127,Female,48,Club Soda - Evervess,Beverages,Energy & Soft Drinks,20,4.2
+127,Female,48,Condoms - Pina Colada,Beauty & Hygiene,Health & Medicine,80,4.6
+128,Female,53,Soft Drink,Beverages,Energy & Soft Drinks,59.4,4.2
+128,Female,53,Buttermilk - Spiced,"Bakery, Cakes & Dairy",Dairy,39.15,3.8
+128,Female,53,Pudina Buttermilk,"Bakery, Cakes & Dairy",Dairy,30,3.9
+128,Female,53,Amaranthus - Red,Fruits & Vegetables,Fresh Vegetables,20,NA
+128,Female,53,Cucumber - Sliced,Fruits & Vegetables,Fresh Vegetables,26,NA
+128,Female,53,Badam Milkshake With Real Badam Bits,Beverages,Energy & Soft Drinks,80.33,4.7
+129,Female,30,Caker Swiss Roll Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,60,4.1
+129,Female,30,Ladies Finger - Diced,Fruits & Vegetables,Cuts & Sprouts,27,NA
+129,Female,30,Ultimate Paneer,"Bakery, Cakes & Dairy",Dairy,85,3.8
+129,Female,30,The Good Eggs Cage Free Eggs,"Eggs, Meat & Fish",Eggs,99,NA
+129,Female,30,Beans - Diced,Fruits & Vegetables,Fresh Vegetables,43,NA
+129,Female,30,Rose Lassi,"Bakery, Cakes & Dairy",Dairy,20,4.1
+129,Female,30,Instant Drink Mix - Orange,Beverages,Fruit Juices & Drinks,126,4.3
+129,Female,30,Tender Coconut - Medium,Fruits & Vegetables,Cuts & Sprouts,46,NA
+129,Female,30,Mango Mallika - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,83,NA
+129,Female,30,"Pumpkin - Disco, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,39,NA
+130,Female,51,"Soda - Fizz, Jeera Masala",Beverages,Energy & Soft Drinks,35,4.1
+131,Female,51,Assam Black Tea Bags - Indian Teetotallers,Beverages,Tea,99,NA
+131,Female,51,Green Mango 100% Fruit Juice - No Added Sugar,Beverages,Fruit Juices & Drinks,22.55,NA
+131,Female,51,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46,NA
+131,Female,51,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235,3
+131,Female,51,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+132,Male,69,Pina Colada,"Bakery, Cakes & Dairy",Dairy,35,3.8
+132,Male,69,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Cuts & Sprouts,49,NA
+132,Male,69,Carrot - Sliced,Fruits & Vegetables,Fresh Vegetables,33,NA
+133,Female,32,Grape Fruit - Indian,Fruits & Vegetables,Exotic Fruits & Veggies,79,NA
+133,Female,32,Neelam Mango,Fruits & Vegetables,Fresh Fruits,62,NA
+133,Female,32,Red Cabbage - Grated,Fruits & Vegetables,Cuts & Sprouts,23,NA
+133,Female,32,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+133,Female,32,Pak Choi,Fruits & Vegetables,Fresh Vegetables,25,NA
+134,Male,41,Thums Up,Beverages,Energy & Soft Drinks,160,4.3
+134,Male,41,Butter Milk - Spiced,"Bakery, Cakes & Dairy",Dairy,9.9,4.2
+134,Male,41,Green Tea Bags,Beverages,Tea,130,4.2
+134,Male,41,Sambar Onion - Organically Grown,Fruits & Vegetables,Fresh Vegetables,34,NA
+134,Male,41,Club Soda - Evervess,Beverages,Energy & Soft Drinks,20,4.2
+134,Male,41,Yam - Diced,Fruits & Vegetables,Fresh Vegetables,27,NA
+134,Male,41,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+135,Female,40,Moonfils Choco Cream,"Bakery, Cakes & Dairy",Gourmet Breads,15,NA
+135,Female,40,Instant Drink Mix - Orange,Beverages,Fruit Juices & Drinks,126,4.3
+135,Female,40,Bread - Pav,"Bakery, Cakes & Dairy",Breads & Buns,30,NA
+136,Male,41,"Green Tea - Tulsi, Good Morning",Beverages,Tea,75,NA
+136,Male,41,Paneer,"Bakery, Cakes & Dairy",Dairy,73.26,3.9
+136,Male,41,Cut - Mushroom,Fruits & Vegetables,Cuts & Sprouts,46,NA
+136,Male,41,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+136,Male,41,Syrup - Strawberry,Beverages,Fruit Juices & Drinks,235,3
+137,Female,41,Lassi,"Bakery, Cakes & Dairy",Dairy,20,4.2
+137,Female,41,Ginger,Fruits & Vegetables,Herbs & Seasonings,15,NA
+137,Female,41,Fresh Toned Milk,"Bakery, Cakes & Dairy",Dairy,33,4.2
+137,Female,41,"Instant Premix Tea - 3 In 1 Combo Pack With Masala,Ginger & Elaichi",Beverages,Tea,150,4.3
+137,Female,41,Cookies - Australian Anzac,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",117,3.7
+137,Female,41,Beetroot - Diced,Fruits & Vegetables,Cuts & Sprouts,26,NA
+137,Female,41,"Banana - Raw, Diced",Fruits & Vegetables,Cuts & Sprouts,25,NA
+137,Female,41,Toned Milk,"Bakery, Cakes & Dairy",Dairy,28,4.2
+137,Female,41,"Banana - Yellaki, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,33,NA
+138,Female,87,Kool Sugarfree Elaichi Drink,"Bakery, Cakes & Dairy",Dairy,25,4.2
+138,Female,87,Passion Fruit,Fruits & Vegetables,Fresh Fruits,72.25,NA
+138,Female,87,Chocolate Milkshake,"Bakery, Cakes & Dairy",Dairy,30,4.3
+138,Female,87,Smoothie - Mango,"Bakery, Cakes & Dairy",Dairy,27,3.9
+138,Female,87,Beetroot - Julienne,Fruits & Vegetables,Cuts & Sprouts,26,NA
+138,Female,87,100% Wholewheat Lemon Loaf With Honey,"Bakery, Cakes & Dairy",Cakes & Pastries,139,3.8
+139,Other,40,Khatai - Two In One,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",65,NA
+139,Other,40,Carrot - Ooty,Fruits & Vegetables,Fresh Vegetables,38,NA
+139,Other,40,Bitter Gourd - Sliced,Fruits & Vegetables,Cuts & Sprouts,30,NA
+140,Male,37,Spyroll,"Bakery, Cakes & Dairy",Cakes & Pastries,10,3.9
+140,Male,37,Aam Panna Mango Drink,Beverages,Fruit Juices & Drinks,120,NA
+140,Male,37,Chrysanthemum/Shevanti Flower,Fruits & Vegetables,"Flower Bouquets, Bunches",32,NA
+140,Male,37,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+140,Male,37,Juice - Mango Refresh,Beverages,Fruit Juices & Drinks,10,NA
+140,Male,37,Cookies N Cream Gold Ice Cream,"Bakery, Cakes & Dairy",Ice Creams & Desserts,225,3.7
+140,Male,37,Caker Swiss Roll Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,60,4.1
+140,Male,37,Yellow Pumpkin - Avial Cut,Fruits & Vegetables,Cuts & Sprouts,25,NA
+140,Male,37,Latte Coffee Cup,Beverages,Coffee,25,4.2
+140,Male,37,Baby Corn - Peeled,Fruits & Vegetables,Exotic Fruits & Veggies,23,NA
+141,Male,75,Amaranthus - Red,Fruits & Vegetables,Fresh Vegetables,20,NA
+142,Female,53,Ragi Powder - Sprouted & Roasted,Beverages,"Health Drink, Supplement",120,4.5
+142,Female,53,"Rusk - Suji & Elaichi, 200 g + TGL Co.Kadak Masala Chai Tea Bag, 64 g","Bakery, Cakes & Dairy","Cookies, Rusk & Khari",209.3,NA
+142,Female,53,Sambar Onion - Peeled (Small Onion),Fruits & Vegetables,Cuts & Sprouts,41,NA
+143,Female,19,Toned Milk,"Bakery, Cakes & Dairy",Dairy,23.29,4
+143,Female,19,Garlic - Peeled,Fruits & Vegetables,Herbs & Seasonings,39,NA
+143,Female,19,Mango Banganapalli- Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,79,NA
+143,Female,19,Masala Tea Bags - Tulsi Chai,Beverages,Tea,174,4.3
+143,Female,19,Frozen Prawns - Large,"Eggs, Meat & Fish",Fish & Seafood,229,NA
+143,Female,19,Filter Coffee Decoction,Beverages,Coffee,55,3.6
+144,Male,31,Earl Grey Black Tea,Beverages,Tea,159,4.4
+144,Male,31,Aam Panna Mango Drink,Beverages,Fruit Juices & Drinks,120,NA
+144,Male,31,Cup Cake - Chocolate,"Bakery, Cakes & Dairy",Cakes & Pastries,35,3.6
+144,Male,31,Banana Flower - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,24,NA
+144,Male,31,Mackerel In Oil,"Eggs, Meat & Fish",Fish & Seafood,113.05,NA
+144,Male,31,Ladies Finger - Diced,Fruits & Vegetables,Cuts & Sprouts,27,NA
+145,Male,46,Roll - Swiss Single,"Bakery, Cakes & Dairy",Cakes & Pastries,10,4.1
+145,Male,46,Table Butter - Pasteurised,"Bakery, Cakes & Dairy",Dairy,225,3.6
+145,Male,46,Dreams Carrot Pudding Cup Cake 6-In-1,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",50,5
+145,Male,46,Chrysanthemum/Shevanti Flower,Fruits & Vegetables,"Flower Bouquets, Bunches",26,NA
+145,Male,46,Bitter Gourd - Organically Grown,Fruits & Vegetables,Fresh Vegetables,14,NA
+145,Male,46,Eggs - White Leghorn,"Eggs, Meat & Fish",Eggs,60,NA
+145,Male,46,Fresh Figs,Fruits & Vegetables,Fresh Fruits,40,NA
+146,Male,17,Mango Sindura - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,64,NA
+146,Male,17,Capsicum - Red,Fruits & Vegetables,Fresh Vegetables,65,NA
+146,Male,17,"Pork - D Shape Cooked Breakfast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,NA
+146,Male,17,Jackfruit - Peeled,Fruits & Vegetables,Fresh Fruits,55,NA
+147,Male,44,100% Wholewheat Lemon Loaf With Honey,"Bakery, Cakes & Dairy",Cakes & Pastries,139,3.8
+147,Male,44,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+147,Male,44,Turmeric Tea Sampler Pack -  4 Variety,Beverages,Tea,60,3.6
+148,Female,82,Mahatriphaladya Ghrita,Beauty & Hygiene,Health & Medicine,170,NA
+148,Female,82,Paneer - Regular,"Bakery, Cakes & Dairy",Dairy,72,3.5
+149,Male,76,Snake Gourd,Fruits & Vegetables,Fresh Vegetables,12.5,NA
+149,Male,76,"Tomato - Local, Organically Grown",Fruits & Vegetables,Fresh Vegetables,5,NA
+149,Male,76,Tomato - Hybrid,Fruits & Vegetables,Fresh Vegetables,14,NA
+149,Male,76,Cheese Slices,"Bakery, Cakes & Dairy",Dairy,130,4.2
+149,Male,76,Lavash - Corn,"Bakery, Cakes & Dairy",Bakery Snacks,130.05,NA
+149,Male,76,Juice - Pink Guava,Beverages,Fruit Juices & Drinks,19,NA
+150,Female,83,"Soda - Fizz, Jeera Masala",Beverages,Energy & Soft Drinks,35,4.1
+150,Female,83,"Juice - Orange, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+150,Female,83,Celery,Fruits & Vegetables,Herbs & Seasonings,16.5,NA
+150,Female,83,Basale Leaf,Fruits & Vegetables,Fresh Vegetables,12,NA
+151,Female,38,Milk Shake - Chocolate,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+151,Female,38,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+151,Female,38,Pomegranate - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,129,NA
+151,Female,38,Capsicum - Red,Fruits & Vegetables,Exotic Fruits & Veggies,65,NA
+151,Female,38,Instant Drink Mix - Mango,Beverages,Fruit Juices & Drinks,120,4.3
+151,Female,38,Drink - Anar 200 ml + Juice - Santra 200 ml + Juice - Lychee Ras 200 ml,Beverages,Fruit Juices & Drinks,85,NA
+151,Female,38,Almond Milk - Chocolate,"Bakery, Cakes & Dairy",Non Dairy,148.96,3.8
+151,Female,38,"Chai - Masala, Tulsi",Beverages,Tea,230,4.4
+151,Female,38,"Banana - Raw, Diced",Fruits & Vegetables,Cuts & Sprouts,25,NA
+151,Female,38,Cakes - Pineapple 55 g + Fruity Fun 55 g + Orange Bites 55 g + Choco Chill 55 g,"Bakery, Cakes & Dairy",Cakes & Pastries,60,NA
+152,Female,27,Cucumber - Sliced,Fruits & Vegetables,Cuts & Sprouts,26,NA
+152,Female,27,Instant Tea Premix - Turmeric Ginger,Beverages,Tea,139.3,4.3
+152,Female,27,Cream - Fresh,"Bakery, Cakes & Dairy",Dairy,50,4
+152,Female,27,Banana Blossom - Peeled,Fruits & Vegetables,Cuts & Sprouts,37,NA
+152,Female,27,Organic Unsalted Butter,"Bakery, Cakes & Dairy",Dairy,137.7,4.6
+152,Female,27,Soya Milk - Vanilla,"Bakery, Cakes & Dairy",Dairy,77.17,4.2
+152,Female,27,Orange Ice Tea,Beverages,Tea,90,4
+152,Female,27,Juice - Rose Lychee,Beverages,Fruit Juices & Drinks,19,NA
+152,Female,27,Dill Leaves,Fruits & Vegetables,Fresh Vegetables,10,NA
+153,Male,85,Toned Milk,"Bakery, Cakes & Dairy",Dairy,23.29,4
+154,Female,53,Multigrain Bread,"Bakery, Cakes & Dairy",Breads & Buns,50,NA
+154,Female,53,Papaya & Honey Scrub,Beauty & Hygiene,Skin Care,166.5,4.5
+154,Female,53,Taft Ultra Wet Gel - Ultra Strong 4,Beauty & Hygiene,Men's Grooming,425,NA
+154,Female,53,Radish - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,22,NA
+154,Female,53,Quick Chai Masala,Beverages,Tea,109.2,3.5
+154,Female,53,Mackerel In Oil,"Eggs, Meat & Fish",Fish & Seafood,113.05,NA
+154,Female,53,Juice - Mango Refresh,Beverages,Fruit Juices & Drinks,10,NA
+154,Female,53,Assam Black Tea,Beverages,Tea,159,4.1
+155,Female,87,Tea - Gold Dust,Beverages,Tea,182,4.4
+155,Female,87,Colocasia - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,11,NA
+155,Female,87,Orange Flavoured Tooti Frooti,"Bakery, Cakes & Dairy",Cakes & Pastries,25,3.8
+155,Female,87,Multigrain Bread,"Bakery, Cakes & Dairy",Breads & Buns,50,NA
+156,Female,54,Beans - Diced,Fruits & Vegetables,Fresh Vegetables,43,NA
+156,Female,54,"Pork - D Shape Cooked Breakfast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,NA
+156,Female,54,Butter - Pasteurised (School Pack),"Bakery, Cakes & Dairy",Dairy,56.43,4.3
+156,Female,54,Muskmelon - Striped,Fruits & Vegetables,Fresh Fruits,35,NA
+156,Female,54,Xtra Coffee Pouch,Beverages,Coffee,57.5,4.1
+156,Female,54,Pudina Buttermilk,"Bakery, Cakes & Dairy",Dairy,30,3.9
+156,Female,54,Thai Ginger,Fruits & Vegetables,Fresh Vegetables,38,NA
+156,Female,54,Lettuce - Romaine,Fruits & Vegetables,Fresh Vegetables,16,NA
+156,Female,54,Real Ice Cream - Strawberry Real Magic,"Bakery, Cakes & Dairy",Ice Creams & Desserts,160,3.8
+156,Female,54,Chinese Cabbage,Fruits & Vegetables,Exotic Fruits & Veggies,39,NA
+157,Male,70,Kool Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,139,4
+157,Male,70,Banana Blossom - Peeled,Fruits & Vegetables,Cuts & Sprouts,37,NA
+157,Male,70,Lettuce - Red,Fruits & Vegetables,Fresh Vegetables,16,NA
+157,Male,70,Tender Coconut Water,Beverages,Fruit Juices & Drinks,25,NA
+157,Male,70,Basale Leaf,Fruits & Vegetables,Fresh Vegetables,12,NA
+157,Male,70,Unsalted Butter,"Bakery, Cakes & Dairy",Dairy,48,4.2
+157,Male,70,Assam Black Tea,Beverages,Tea,159,4.1
+157,Male,70,Neelam Mango,Fruits & Vegetables,Fresh Fruits,62,NA
+157,Male,70,Spyroll,"Bakery, Cakes & Dairy",Cakes & Pastries,10,3.9
+158,Male,61,Tender Coconut - Medium,Fruits & Vegetables,Cuts & Sprouts,46,NA
+158,Male,61,Soft  Drink,Beverages,Energy & Soft Drinks,20,4.1
+158,Male,61,Pineapple - Slices,Fruits & Vegetables,Fresh Fruits,27,NA
+158,Male,61,Ginger - Chopped,Fruits & Vegetables,Herbs & Seasonings,24,NA
+158,Male,61,Green Tea Bags,Beverages,Tea,130,4.2
+158,Male,61,Masala Tea Bags - Tulsi Chai,Beverages,Tea,174,4.3
+158,Male,61,"Coffee - Powder, Extra Strong",Beverages,Coffee,74,4.2
+158,Male,61,"Milkshake Mix, 200 g + Oreo - Choco Creme Biscuit, Family Pack, 300 g","Bakery, Cakes & Dairy",Dairy,239,NA
+159,Male,45,Cucumber - Sliced,Fruits & Vegetables,Fresh Vegetables,26,NA
+159,Male,45,Instant Tea Premix - Turmeric Ginger,Beverages,Tea,139.3,4.3
+159,Male,45,Sugar Free Ice Cream - Anjeer with Chocolate Sauce,"Bakery, Cakes & Dairy",Ice Creams & Desserts,35,3.6
+159,Male,45,Kiwi - Green,Fruits & Vegetables,Exotic Fruits & Veggies,209,NA
+159,Male,45,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+159,Male,45,Cucumber,Fruits & Vegetables,Fresh Vegetables,10.89,NA
+160,Female,39,"Juice - Fruit Power, Cranberry",Beverages,Fruit Juices & Drinks,206,NA
+160,Female,39,"Coffee - Powder, Extra Strong",Beverages,Coffee,74,4.2
+160,Female,39,Neelam Mango,Fruits & Vegetables,Fresh Fruits,62,NA
+160,Female,39,Brown Bread,"Bakery, Cakes & Dairy",Breads & Buns,45,NA
+160,Female,39,Malai Fresh Paneer,"Bakery, Cakes & Dairy",Dairy,71.28,3.8
+160,Female,39,Baby Corn - Peeled,Fruits & Vegetables,Exotic Fruits & Veggies,23,NA
+160,Female,39,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+160,Female,39,Pizza Cheese - Mozzarella & Cheddar,"Bakery, Cakes & Dairy",Dairy,219,3.5
+160,Female,39,Apple Fruit Juice,Beverages,Fruit Juices & Drinks,220,NA
+160,Female,39,Curd - Farm Fresh,"Bakery, Cakes & Dairy",Dairy,92.06,4.1
+161,Male,60,Fried Rice Mix,Fruits & Vegetables,Cuts & Sprouts,45,NA
+161,Male,60,Apple Fruit Juice,Beverages,Fruit Juices & Drinks,220,NA
+161,Male,60,Organic Green Tea,Beverages,Tea,102,4.2
+161,Male,60,Aam Panna Mango Drink,Beverages,Fruit Juices & Drinks,120,NA
+161,Male,60,Chicken Coppata Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",155,NA
+161,Male,60,"Capsicum - Red, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,29,NA
+161,Male,60,Chicken Shami Kabab,"Eggs, Meat & Fish","Sausages, Bacon & Salami",237.9,NA
+161,Male,60,Himalayan Mixed Fruit,Beverages,Fruit Juices & Drinks,40,NA
+161,Male,60,"Green Tea - Tulsi, Good Morning",Beverages,Tea,75,NA
+162,Male,30,Ladies Finger - Diced,Fruits & Vegetables,Cuts & Sprouts,27,NA
+162,Male,30,"Non-Alcoholic Beer Can - Malt Beverage, Pomegranate Flavoured",Beverages,Energy & Soft Drinks,49,2
+162,Male,30,"Capsicum - Red, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,29,NA
+162,Male,30,Instant Drink Mix - Mango,Beverages,Fruit Juices & Drinks,120,4.3
+162,Male,30,"Fish - Rohu, Head","Eggs, Meat & Fish",Fish & Seafood,49,NA
+162,Male,30,Brinjal Bottle Shape 500 g + Cauliflower 1 pc + Cabbage 1 pc,Fruits & Vegetables,Fresh Vegetables,51.1,NA
+162,Male,30,Italian - Sausages Chicken,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150,NA
+162,Male,30,Sweet Corn - Pellets,Fruits & Vegetables,Exotic Fruits & Veggies,31,NA
+163,Male,61,Sensitive Toothpaste - Repair & Protect,Beauty & Hygiene,Oral Care,325.36,4.4
+163,Male,61,Green Tea - Pure & Light,Beverages,Tea,150,4.4
+163,Male,61,Soy Milky - Elaichi Flavour,"Bakery, Cakes & Dairy",Dairy,54,3.6
+163,Male,61,Muskmelon - Organically Grown,Fruits & Vegetables,Fresh Fruits,27,NA
+163,Male,61,"Blood Detox With Curcumin - Turmeric Extract, Neem, Manjistha & Beetroot",Beauty & Hygiene,Health & Medicine,1499,NA
+163,Male,61,Carrot - Sliced,Fruits & Vegetables,Fresh Vegetables,33,NA
+163,Male,61,Italian - Sausages Chicken,"Eggs, Meat & Fish","Sausages, Bacon & Salami",150,NA
+163,Male,61,Green Tea & Lemon,Beverages,Tea,152,2.8
+164,Male,23,Tea Cake - Banana Walnut,"Bakery, Cakes & Dairy",Cakes & Pastries,159,NA
+164,Male,23,Tender Coconut - Medium,Fruits & Vegetables,Fresh Fruits,46,NA
+165,Male,40,Choco Chip Tea Cake,"Bakery, Cakes & Dairy",Cakes & Pastries,159,NA
+165,Male,40,Green Tea - Pure & Light,Beverages,Tea,150,4.4
+165,Male,40,Spring Onion,Fruits & Vegetables,Fresh Vegetables,13,NA
+165,Male,40,Totapuri Mango,Fruits & Vegetables,Fresh Fruits,24,NA
+165,Male,40,Milk Shake - Mango,"Bakery, Cakes & Dairy",Dairy,27,4.5
+165,Male,40,Four Cheese,"Bakery, Cakes & Dairy",Dairy,145,4.1
+166,Male,19,Probiotic Yogurt - Vanilla Bean,"Bakery, Cakes & Dairy",Dairy,25,4
+166,Male,19,Boiled Sweet Corn Kernel - Spice Up With Peri-Peri Seasoning,Fruits & Vegetables,Exotic Fruits & Veggies,49,NA
+166,Male,19,"Butter Milk - Uht, Spicy","Bakery, Cakes & Dairy",Dairy,15,4
+166,Male,19,White Sandwich Bread Safe Preservative Free 400g + Burger Buns 150 g (Pack of 2),"Bakery, Cakes & Dairy",Breads & Buns,65,NA
+166,Male,19,Baby Corn - Unpeeled,Fruits & Vegetables,Exotic Fruits & Veggies,15,NA
+166,Male,19,Mineral Water,Beverages,Water,240,4.2
+166,Male,19,"Juice - Litchi, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+167,Male,67,3-In-1 Masala Chai,Beverages,Tea,100,3
+167,Male,67,Pudina Buttermilk,"Bakery, Cakes & Dairy",Dairy,30,3.9
+167,Male,67,Banganapalli Mango,Fruits & Vegetables,Fresh Fruits,49,NA
+167,Male,67,Dragon Fruit,Fruits & Vegetables,Fresh Fruits,85,NA
+167,Male,67,Creami - Cheese Spread,"Bakery, Cakes & Dairy",Dairy,80,4.3
+167,Male,67,"Tomato - Hybrid, Organically Grown",Fruits & Vegetables,Organic Fruits & Vegetables,7.5,NA
+167,Male,67,Sugar Free Ice Cream - Anjeer with Chocolate Sauce,"Bakery, Cakes & Dairy",Ice Creams & Desserts,35,3.6
+168,Male,65,Ladies Finger - Diced,Fruits & Vegetables,Cuts & Sprouts,27,NA
+168,Male,65,Yam - Diced,Fruits & Vegetables,Fresh Vegetables,27,NA
+168,Male,65,Organics Green Tea With Lemon,Beverages,Tea,100,4.1
+168,Male,65,Premium Milk Shake - Butterscotch,"Bakery, Cakes & Dairy",Dairy,30,4.1
+169,Female,61,Papaya - Medium,Fruits & Vegetables,Fresh Fruits,41.58,NA
+169,Female,61,Rusk - Milk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",66.5,NA
+169,Female,61,Soft  Drink,Beverages,Energy & Soft Drinks,20,4.1
+169,Female,61,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+169,Female,61,Lemon - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,33.6,NA
+169,Female,61,Cheese Crunchy Layered Crackers,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",40,4.3
+170,Male,16,Latte Coffee Cup,Beverages,Coffee,25,4.2
+170,Male,16,Curry Leaves,Fruits & Vegetables,Herbs & Seasonings,2.45,NA
+170,Male,16,Organic Earl Grey Citrus Long Leaf Black Tea,Beverages,Tea,140,4.2
+170,Male,16,Thick Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,30,4
+170,Male,16,Thums Up,Beverages,Energy & Soft Drinks,160,4.3
+170,Male,16,Cut Indian Fruit Pack,Fruits & Vegetables,Fresh Fruits,47,NA
+171,Male,51,Chinese Cabbage,Fruits & Vegetables,Exotic Fruits & Veggies,39,NA
+171,Male,51,Sugarcane - Diced,Fruits & Vegetables,Cuts & Sprouts,19,NA
+171,Male,51,Fresh Almonds Green,Fruits & Vegetables,Fresh Fruits,59.5,NA
+171,Male,51,"Instant Energy Health Drink - Nimbu Pani, Refill",Beverages,Energy & Soft Drinks,70,4.3
+171,Male,51,Ridge Gourd - Diced,Fruits & Vegetables,Cuts & Sprouts,45,NA
+171,Male,51,Latte Coffee Cup,Beverages,Coffee,25,4.2
+171,Male,51,Table Butter - Pasteurised,"Bakery, Cakes & Dairy",Dairy,225,3.6
+171,Male,51,Milk Shake - Strawberry,"Bakery, Cakes & Dairy",Dairy,20.1,3.8
+171,Male,51,Butter Milk - Spiced,"Bakery, Cakes & Dairy",Dairy,9.9,4.2
+171,Male,51,Coconut Milk Yogurt - Alphonso Mango,"Bakery, Cakes & Dairy",Dairy,168,3.9
+172,Male,63,Toned Milk,"Bakery, Cakes & Dairy",Dairy,28,4.2
+172,Male,63,Continental Speciale,Beverages,Coffee,70,4.2
+173,Female,37,"Non-Alcoholic Beer Bottle - Malt Beverage, Apple Flavour",Beverages,Energy & Soft Drinks,99,4.5
+173,Female,37,Fresh Toned Milk,"Bakery, Cakes & Dairy",Dairy,33,4.2
+173,Female,37,"Juice - Litchi, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
+173,Female,37,Fresh Turmeric - Organically Grown,Fruits & Vegetables,Herbs & Seasonings,14,NA
+173,Female,37,Chow Chow,Fruits & Vegetables,Fresh Vegetables,16.83,NA
+173,Female,37,"Pork - D Shape Cooked Breakfast Ham, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",171.6,NA
+173,Female,37,Tulsi Doodh Shot,"Bakery, Cakes & Dairy",Dairy,22,3.9
+173,Female,37,"Juice - Mango, Aloevera",Beverages,Fruit Juices & Drinks,40,NA
