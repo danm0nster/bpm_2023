@@ -74,8 +74,6 @@ popular_products <- shopping %>%
   arrange(desc(items_sold)) %>% 
   head(n = 10)
 
-# Could also be tail without desc() in arrange()
-
 # the highest rated products ----
 # Hint: very similar to above, but rating is always the same for a
 # particular product
